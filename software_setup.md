@@ -6,6 +6,8 @@
 
 * Every time you connect the 16x08's USB to the laptop the TASCAM interface program should pop-up. If it doesn't pop up, the 16x08 hasn't been registered, and you need to either re-insert the USB or restart the computer. 
 
+## ASIO4ALL...? (to be decided...)
+
 ## IMPORTANT: Change the default sampling rate in Windows
 * Go to 'Control Panel' -> 'Hardware & Sound' -> 'Sound' 
 * Choose 'Microphone' with 'US-16x08' on it, and this should show as the default device
