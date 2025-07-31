@@ -20,6 +20,12 @@ You should see the 'sample rate' change to 96 kHz:
 
 ![](documentation/96khz_tascam_settings.png)
 
+## Download this repository 
+* Go to [this link](https://github.com/thejasvibr/oilbird_recordingsystem/tree/master)
+* Click on 'Code' -> 'Download ZIP' and download the repository
+* Unzip the repository and you now have the code locally
+
+
 ## Installing conda and a python environment
 * Install conda : https://www.anaconda.com/docs/getting-started/miniconda/main
 

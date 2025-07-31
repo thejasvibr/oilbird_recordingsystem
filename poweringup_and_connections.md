@@ -36,9 +36,15 @@ Front-facing switches left to right:
 Back-facing switches:
 	* the one switch in the back doesn't matter. It can be ignored for now.
 	
+![](documentation/oilbird_recsystem_front.jpg)
+![](documentation/oilbird_recsystem_back.jpg)
+
+
 ### Channel connections
 * Remember the preamps and the audio-interface face in opposite directions. 
 * Connect 8 XLR-jack cables from preamp A to the first 8 inputs of the audio-interface. 
 * Connect channels 9-10 with the Blue & Green jack-jack connectors (See the channel number label) in the front of the audio-interface
 * Connect Channels 11-16 in the following order: Yellow (11), Red (12), White (13), Black (14), Blue (15), Green (16). (The order of the cables is based on the acronym of the rainbow-colours in english VIBGYOR - but with WHITE and BLACK at the end....so viBGYoR+W Bk, followed by Blue & Green to start again)
 
+![](documentation/cable_order_colour1.jpg)
+![](documentation/cable_order_colour2.jpg)
