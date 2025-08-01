@@ -36,8 +36,8 @@ Front-facing switches left to right:
 Back-facing switches:
 	* the one switch in the back doesn't matter. It can be ignored for now.
 	
-![](documentation/oilbird_recsystem_front.jpg)
-![](documentation/oilbird_recsystem_back.jpg)
+![](documentation/oilbird_front_latest.jpg)
+![](documentation/oilbirdrec_back_latest.jpg)
 
 
 ### Channel connections
