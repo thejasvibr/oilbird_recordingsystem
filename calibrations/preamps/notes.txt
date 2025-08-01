@@ -1,0 +1,6 @@
+Help from Aditya Moger in data collection
+
+* XLR-BNC cable (1m) & XLR(male)-Jack cable (1m) used. 
+* Both preamsps A & B were tested, only some channels to save time 
+* COMP was on OFF for all channels 
+* +48V was OFF, and the mics were on 'MIC/LINE'

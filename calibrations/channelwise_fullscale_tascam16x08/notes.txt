@@ -1,0 +1,7 @@
+Channle-wise fullsclae:
+
+* XLR-Jack (short) cable used, XLR-BNC (1m) cable used
+* Recordings triggered with python scirpt 'manual_recording.py'
+* Channels 11-16 at '+4dBu'
+* Channels 1-8 PHantom power OFF
+* Channels 9-10 set to 'Line'
