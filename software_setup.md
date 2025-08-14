@@ -35,3 +35,6 @@ You should see the 'sample rate' change to 96 kHz:
 * Change your current directory to 'oilbird_recordingsystem' using ```cd```
 * Install the packages needed to run the code with ```pip install -r requirements.txt``` 
 * Connect a mic. Start a recording with the default parameters with ```python manual_recording.py``` and inspect the recorded audio with Audacity to see if you pick up any audio on the correct channel. 
+
+## Help - the Python code doesn't work
+Okay, let's try out the [REAPER](reaper_setup.md) way now.
