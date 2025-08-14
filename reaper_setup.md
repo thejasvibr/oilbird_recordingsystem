@@ -7,7 +7,7 @@ These instructions are for REAPER v7.43.
 ![](documentation/reaper_project_settings.png)
 * Another thing to check is in the 'Advanced' tab, 'Smooth abrupt volume/pan/width envelope changes by' - and set it to 0 ms. 
 
-![](0smoothing.png)
+![](documentation/0smoothing.png)
 
 * First insert a track - this will allow you to record audio. Do this with: 'Insert' -> 'Track'. 
 * Go to track #1 and click on the red 'button' on the top left part of the window to 'arm' (REAPER terminology for activation) the track. 
